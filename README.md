@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, meu nome é Nícolas, tenho 19 anos de idade e atualmente me encontro como estudante de desenvolvimento web na Trybe.
+Olá, meu nome é Nícolas, tenho 19 anos de idade e atualmente me encontro como Freelancer em Desenvolvimento Web.
 
 
 ## 🌐 Socials:
